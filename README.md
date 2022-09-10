@@ -5,19 +5,7 @@
 <h2 align="center">
     Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
 </h2>
-
-- 🔭 I’m currently working as Student
-- 🌱 I’m currently learning at Alx Software Engineering Programme Inc. with Hoberton School of Computer Science. 
-- 👯 I’m looking to collaborate on projects to learn more
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href="[Portfolio](https://ibookdatabook.netlify.app/)">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Portfolio&color=red"/>
-  </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h2 align='center'> Contact Me </h2>
-<div id="badges">
+<div id="badges" align='center'>
   <a href="[LinkedIn](https://www.linkedin.com/in/solomon-t-4a568b187/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,6 +13,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
+
+- 🔭 I’m currently working as Student
+- 🌱 I’m currently learning at Alx Software Engineering Programme Inc. with Hoberton School of Computer Science. 
+- 👯 I’m looking to collaborate on projects to learn more
+- 🤔 I’m looking for help with other tech developers 
+- 💬 Ask me about me 
+- 📫 How to reach me: <a href="[Portfolio](https://ibookdatabook.netlify.app/)">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Portfolio&color=red"/>
+  </a>
+- ⚡ Fun fact: learning is a continuous process
 
 ### :hammer_and_wrench: Languages and Tools:
 <div align='center'>  
@@ -54,6 +52,4 @@
 </div>
 
 ### :fire: My Stats :
-<div align='center'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iBookdrupal&theme=light)](https://git.io/streak-stats)
-</div>
