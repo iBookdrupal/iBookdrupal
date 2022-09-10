@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>    
 </div>
 
-<h1 align="center">
+<h2 align="center">
     Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
-</h1>
+</h2>
 
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning at Alx Software Engineering Programme Inc. with Hoberton School of Computer Science. 
@@ -54,4 +54,6 @@
 </div>
 
 ### :fire: My Stats :
+<div align='center'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iBookdrupal&theme=light)](https://git.io/streak-stats)
+</div>
