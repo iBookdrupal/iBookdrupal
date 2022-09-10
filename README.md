@@ -54,6 +54,4 @@
 </div>
 
 ### :fire: My Stats :
-<div align='center'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iBookdrulap&theme=dark)](https://git.io/streak-stats)
-</div>
