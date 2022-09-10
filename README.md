@@ -1,6 +1,6 @@
-<div align="center">
-    ## Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
-</div>
+<h1 align="center">
+    Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
+</h1>
 
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning at Alx Software Engineering Programme Inc. with Hoberton School of Computer Science. 
