@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>    
+</div>
+
 <h1 align="center">
     Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
 </h1>
