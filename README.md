@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>    
-</div>
-
 <h2 align="center">
     Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
 </h2>
@@ -25,7 +21,7 @@
 - ⚡ Fun fact: learning is a continuous process
 
 ### :hammer_and_wrench: Languages and Tools:
-<div align='center'>  
+<div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -42,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" **alt="NextJs" width="60" height="40"/>&nbsp;  
 </div>
 <br />
-<div align='center'>  
+<div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>  &nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" **alt="yarn" width="40" height="40"/>&nbsp;  
