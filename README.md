@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi there, I am TERNGU, Hindan Solomon (iBook) 👋
 </h1>
-<hr />
+
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning at Alx Software Engineering Programme Inc. with Hoberton School of Computer Science. 
 - 👯 I’m looking to collaborate on projects to learn more
@@ -10,7 +10,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<hr />
 <h2 align='center'> Contact Me </h2>
 <div id="badges">
   <a href="[LinkedIn](https://www.linkedin.com/in/solomon-t-4a568b187/)">
@@ -21,6 +20,5 @@
   </a>  
 </div>
 
-<hr />
 <h1> Languages and Tools </h1>
 
